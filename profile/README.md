@@ -41,7 +41,7 @@ We are building tools for **data transparency, ecosystem growth, and developer e
 ---
 
 ## 🌍 Community: Resonance Circle
-HypurScope is powered by **Resonance Circle**, the Hyperliquid community of dreamers and builders.  
+HypurScope was birth **Resonance Circle**, the Hyperliquid community of dreamers and builders.  
 We build tools, foster culture, and share knowledge.  
 
 - 💬 Telegram: [t.me/hype_community_ng](https://t.me/hype_community_ng)  
