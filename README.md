@@ -51,6 +51,14 @@ We build tools, foster culture, and share knowledge.
 
 ---
 
+## 📜 License
+This project is licensed under the terms of the **MIT License (c) 2025 HypurScope**.  
+You are free to use, modify, and distribute this project in compliance with the license.  
+
+See the full text in the [LICENSE](./LICENSE) file. 
+
+---
+
 ## 👥 Authors & Credits
 HypurScope is maintained and built by:
 - [**Azeez Fawaz Kolawole**](https://github.com/KolawoleFawaz)  
