@@ -49,6 +49,16 @@ We build tools, foster culture, and share knowledge.
 
 ---
 
+## 👥 Authors & Credits
+HypurScope is maintained and built by:
+- [**Azeez Fawaz Kolawole**](https://github.com/KolawoleFawaz)  
+- [**Ayodeji Atanda**](https://github.com/deji-ice) 
+- [**Fakile Temitope Oluwaseyi**](https://github.com/fakiletemmytope)  
+- [**Oyedele Bowofoluwa**](https://github.com/heyGetafix)  
+- [**Nnamdi Felix**](https://github.com/kryptrexlabs)
+- **Resonance Circle** – Hyperliquid community of dreamers and builders 
+---
+
 ## 🤝 Get Involved
 - ⭐ Star our repositories to support the mission  
 - 🐛 Contribute by opening issues and PRs  
